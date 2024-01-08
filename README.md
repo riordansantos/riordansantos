@@ -1,6 +1,6 @@
 ## Welcome to my Github Page! 😁
 
-My name is Riordan and I'm a front-end developer. 
+My name is Riordan and I'm a Software Engineer. 
 
 ### About me 🤓
 - ❤️ I love games, programming and I'm always looking for new things to learn.
