@@ -4,7 +4,7 @@ My name is Riordan and I'm a Software Engineer.
 
 ### About me 🤓
 - ❤️ I love games, programming and I'm always looking for new things to learn.
-- 📖 I am studying Computer Engineering at UFMA ( Federal University of Maranhão), Brazil.
+- 📖 I am graduating in Computer Engineering at UFMA (Federal University of Maranhão), Brazil.
 
 <br>
 
